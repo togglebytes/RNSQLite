@@ -1,3 +1,5 @@
+SETup for SQLite Local storage for Android integration
+
 # RNSQLite
 
 
